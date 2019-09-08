@@ -1,5 +1,8 @@
 {
 	"params": {
-		"contentTypeName": "post"
+		"contentTypeName": "post",
+       "defaultTheme": "light",
+      "title": "…maximum teisam",
+      "subtitle": "write like nobody is reading"
 	}
 }
